@@ -1,65 +1,99 @@
-<h1 align="center">Hi there, I'm Sujal Vaidya 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=600&height=50&lines=%24+whoami;sujal_vaidya+%E2%80%94+mern+%2B+ml+developer;%24+cat+status.txt;compiling+ideas+into+code..." alt="Typing SVG" />
 
-<p align="center">
-  <a href="mailto:sujalv641@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Add your LinkedIn / Twitter / Portfolio links below -->
-  <!--
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=SUJALVAIDYA05&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
----
+</div>
 
-### 🚀 About Me
+```bash
+> ssh sujal@github.dev
+Last login: today from 127.0.0.1
+-------------------------------------------------
+ OS       : Sujal Vaidya
+ Host     : MERN Stack Developer
+ Kernel   : Learning Machine Learning
+ Shell    : /bin/collab --open-to-projects
+ Contact  : sujalv641@gmail.com
+-------------------------------------------------
+```
 
-- 👀 I'm interested in the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🌱 Currently learning **Machine Learning**
-- 💞️ Looking to collaborate on **web development & ML projects**
-- 📫 Reach me at **sujalv641@gmail.com**
-- ⚡ Fun fact: I enjoy turning ideas into working products
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/-sujalv641@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:sujalv641@gmail.com)
+<!-- Uncomment and add your links
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://your-portfolio.dev)
+-->
 
-### 🛠️ Tech Stack
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<br>
 
----
+## `>_` about_me.log
 
-### 📊 GitHub Stats
+```yaml
+interests:    [MERN Stack, Machine Learning]
+currently:    learning ML fundamentals & model building
+looking_for:  collaborators on web dev / ML projects
+pronouns:     he/him
+status:       online — building something right now
+```
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SUJALVAIDYA05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJALVAIDYA05&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUJALVAIDYA05&theme=tokyonight&hide_border=true" />
-</p>
+## `>_` tech_stack --list
 
----
+<div align="center">
 
-### 🤝 Connect With Me
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
 
-<p align="left">
-  <a href="mailto:sujalv641@gmail.com">sujalv641@gmail.com</a>
-</p>
+</div>
 
-<p align="center"><i>Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
+<br>
+
+## `>_` github_stats --fetch
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SUJALVAIDYA05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJALVAIDYA05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUJALVAIDYA05&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUJALVAIDYA05&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" width="98%"/>
+</div>
+
+<br>
+
+## `>_` contribution_snake.gif
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%" />
+</div>
+
+> ⚙️ **Note:** The snake animation above needs a one-time GitHub Actions setup — see [platane/snk](https://github.com/Platane/snk) for the copy-paste workflow file.
+
+<br>
+
+<div align="center">
+
+```bash
+> echo "Thanks for visiting — let's build something together."
+Thanks for visiting — let's build something together.
+```
+
+![Visitor Badge](https://img.shields.io/badge/status-open_to_collab-00FF41?style=flat-square&labelColor=0D1117)
+
+</div>
