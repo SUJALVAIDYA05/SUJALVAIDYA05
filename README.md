@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I'm+Sujal+Vaidya+%F0%9F%91%8B;MERN+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I'm+Sujal+Vaidya+%F0%9F%91%8B;MERN+Stack+Developer;" alt="Typing SVG" />
 
 </div>
 
@@ -14,6 +14,7 @@ sujal_vaidya — full-stack developer (MERN) · exploring machine learning
 ### `>_` about me
 
 -  Interested in the **MERN stack** — MongoDB, Express, React, Node.js
+-  Currently learning **Machine Learning**
 -  Looking to collaborate on web dev & ML projects
 -  Reach me at **[sujalv641@gmail.com](mailto:sujalv641@gmail.com)**
 -  Pronouns: he/him
