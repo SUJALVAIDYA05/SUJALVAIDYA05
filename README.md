@@ -1,51 +1,65 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=39FF14&background=0D111700&center=true&vCenter=true&width=560&height=60&lines=sujal+vaidya;mern+stack+%2B+machine+learning;building+%2F%2F+learning+%2F%2F+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I'm+Sujal+Vaidya+%F0%9F%91%8B;MERN+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 </div>
 
-<br>
-
-```
+```bash
 $ whoami
-sujal_vaidya — mern stack developer, ml learner
-
-$ cat role.txt
-building full-stack web apps with the MERN stack
-currently deep in machine learning fundamentals
-
-$ cat status.txt
-[ open to collaborating on web dev & ml projects ]
-
-$ cat contact.txt
-sujalv641@gmail.com
+sujal_vaidya — full-stack developer (MERN) · exploring machine learning
 ```
 
-<br>
+---
 
-<div align="center">
+### `>_` about me
 
-**stack**
+- 👀 Interested in the **MERN stack** — MongoDB, Express, React, Node.js
+- 🌱 Currently learning **Machine Learning**
+- 💞️ Looking to collaborate on web dev & ML projects
+- 📫 Reach me at **[sujalv641@gmail.com](mailto:sujalv641@gmail.com)**
+- 😄 Pronouns: he/him
 
-`JavaScript` · `Python` · `React` · `Node.js` · `Express` · `MongoDB` · `Git`
+---
 
-</div>
+### `>_` tech stack
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14" />
+</p>
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SUJALVAIDYA05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_radius=6" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJALVAIDYA05&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&border_radius=6" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUJALVAIDYA05&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14" width="97%"/>
-</div>
+### `>_` github stats
 
-<br>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SUJALVAIDYA05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJALVAIDYA05&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUJALVAIDYA05&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=39FF14" />
+</p>
 
-[![Email](https://img.shields.io/badge/sujalv641@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=39FF14)](mailto:sujalv641@gmail.com)
+---
 
-</div>
+### `>_` connect
+
+<p align="left">
+  <a href="mailto:sujalv641@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" />
+  </a>
+  <!-- Uncomment and add your links
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+  </a>
+  -->
+</p>
+
+<p align="center"><i>Thanks for stopping by — always open to collaborating on interesting projects.</i></p>
