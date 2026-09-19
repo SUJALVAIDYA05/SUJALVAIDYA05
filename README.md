@@ -13,11 +13,10 @@ sujal_vaidya — full-stack developer (MERN) · exploring machine learning
 
 ### `>_` about me
 
-- 👀 Interested in the **MERN stack** — MongoDB, Express, React, Node.js
-- 🌱 Currently learning **Machine Learning**
-- 💞️ Looking to collaborate on web dev & ML projects
-- 📫 Reach me at **[sujalv641@gmail.com](mailto:sujalv641@gmail.com)**
-- 😄 Pronouns: he/him
+-  Interested in the **MERN stack** — MongoDB, Express, React, Node.js
+-  Looking to collaborate on web dev & ML projects
+-  Reach me at **[sujalv641@gmail.com](mailto:sujalv641@gmail.com)**
+-  Pronouns: he/him
 
 ---
 
