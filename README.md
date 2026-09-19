@@ -44,7 +44,7 @@ sujal_vaidya — full-stack developer (MERN) · exploring machine learning
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUJALVAIDYA05&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=39FF14" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUJALVAIDYA05&hide_border=true&background=0D1117&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=39FF14&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff" />
 </p>
 
 ---
